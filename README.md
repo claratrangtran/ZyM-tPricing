@@ -149,12 +149,7 @@ The secondary win was cultural: AMs started asking Sales Ops for pricing support
 | :---- | :---- |
 | `ZyMot_Pricing_Tool.xlsx` | The headline deliverable — 5-sheet interactive workbook |
 | `ZyMot_Pricing_Case_Study.pptx` | 15-slide presentation (16:9) |
-| `ZyMot_Pricing_Case_Study.pdf` | PDF export of the deck |
 | `client_dataset.csv` | 40 synthetic European IVF clinics with full profiles |
-| `generate_clients.py` | Dataset generator (seeded, reproducible) |
-| `build_pricing_tool.py` | Excel tool build script (openpyxl, live formulas) |
-| `build_presentation.py` | Deck build script (python-pptx) |
-
 ## 8\. How to reproduce
 
 Requires Python 3.10+ with `openpyxl` and `python-pptx` installed. LibreOffice is only needed to regenerate the PDF export.
