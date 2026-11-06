@@ -1,0 +1,41 @@
+client_id,clinic_name,city,country,size_class,ivf_cycles_per_year,icsi_cycles_per_year,current_zymot_units_per_year,current_zymot_price_eur,cooper_group_spend_eur,num_cooper_product_categories,product_categories,account_manager,years_relationship
+C-001,Lumière Fertility,Paris,France,Boutique,211,154,0,,36000,1,Diagnostic Tests,Elena Rossi,10
+C-002,Clinique Dauphine Repro,Lyon,France,Chain,1904,4590,89,250,1509000,7,Micromanipulation; IVF Media & Reagents; Catheters & Tubing; Diagnostic Tests; ZyMōt Sperm Separation; Embryo Culture; Ultrasound Consumables,James Carter,4
+C-003,Mediterrane IVF,Marseille,France,Regional,530,1244,482,250,266000,5,Embryo Culture; ZyMōt Sperm Separation; Cryopreservation; IVF Media & Reagents; Diagnostic Tests,Marie Lefèvre,5
+C-004,Atlantique Reproduction,Nantes,France,Chain,1080,3579,0,,1457000,4,Diagnostic Tests; Catheters & Tubing; Ultrasound Consumables; Micromanipulation,James Carter,2
+C-005,Centre Sud-Ouest FIV,Bordeaux,France,Regional,646,841,0,,263000,4,Diagnostic Tests; Catheters & Tubing; Micromanipulation; Ultrasound Consumables,Anna Nowak,9
+C-006,Alpha Reproductive,Munich,Germany,Boutique,121,142,0,,37000,1,Embryo Culture,Elena Rossi,12
+C-007,NordStern Kinderwunsch,Hamburg,Germany,Regional,159,569,11,230,104000,5,Ultrasound Consumables; ZyMōt Sperm Separation; Catheters & Tubing; Cryopreservation; Micromanipulation,Elena Rossi,11
+C-008,Rhein-Main Fertility,Frankfurt,Germany,University,1163,1985,1565,320,574000,3,IVF Media & Reagents; Embryo Culture; ZyMōt Sperm Separation,James Carter,9
+C-009,Berliner Reproklinik,Berlin,Germany,Regional,308,491,55,260,233000,5,Diagnostic Tests; Catheters & Tubing; ZyMōt Sperm Separation; IVF Media & Reagents; Cryopreservation,James Carter,2
+C-010,Schwarzwald IVF,Freiburg,Germany,University,1302,1811,1164,200,634000,6,Ultrasound Consumables; IVF Media & Reagents; ZyMōt Sperm Separation; Cryopreservation; Micromanipulation; Embryo Culture,Hans Becker,7
+C-011,Dresden Fertilität,Dresden,Germany,Regional,131,436,0,,266000,2,Micromanipulation; Embryo Culture,Elena Rossi,2
+C-012,Köln Reproductive Health,Köln,Germany,Boutique,153,229,41,320,45000,3,ZyMōt Sperm Separation; Embryo Culture; IVF Media & Reagents,Pieter van Dijk,8
+C-013,Barcelona Fertility Lab,Barcelona,Spain,University,272,1670,0,,300000,4,Catheters & Tubing; IVF Media & Reagents; Micromanipulation; Embryo Culture,Anna Nowak,3
+C-014,Madrid Reproductive,Madrid,Spain,University,935,1819,0,,267000,4,Diagnostic Tests; IVF Media & Reagents; Ultrasound Consumables; Micromanipulation,Marie Lefèvre,2
+C-015,Valencia IVF Centre,Valencia,Spain,Chain,1266,4642,0,,2285000,4,IVF Media & Reagents; Catheters & Tubing; Micromanipulation; Cryopreservation,Laura Mendes,11
+C-016,Sevilla Fertilidad,Sevilla,Spain,Regional,644,1048,0,,204000,3,Cryopreservation; Catheters & Tubing; Diagnostic Tests,James Carter,4
+C-017,Bilbao Reproductiva,Bilbao,Spain,University,627,1898,0,,305000,3,Diagnostic Tests; IVF Media & Reagents; Embryo Culture,Hans Becker,11
+C-018,Málaga Repro Clinic,Málaga,Spain,Boutique,106,275,0,,72000,1,Ultrasound Consumables,Pieter van Dijk,12
+C-019,London Fertility Group,London,United Kingdom,Chain,1302,2279,786,190,1577000,5,Cryopreservation; ZyMōt Sperm Separation; Embryo Culture; Micromanipulation; Ultrasound Consumables,Hans Becker,6
+C-020,Manchester IVF Centre,Manchester,United Kingdom,Regional,361,811,0,,236000,5,Catheters & Tubing; Micromanipulation; Embryo Culture; Cryopreservation; Diagnostic Tests,Marie Lefèvre,8
+C-021,Edinburgh Reproductive,Edinburgh,United Kingdom,Regional,429,776,0,,123000,2,Embryo Culture; Micromanipulation,Laura Mendes,11
+C-022,Thames Valley IVF,Reading,United Kingdom,Regional,474,1055,0,,250000,3,IVF Media & Reagents; Cryopreservation; Embryo Culture,Elena Rossi,6
+C-023,Bellezza IVF Milano,Milan,Italy,University,700,2425,0,,326000,4,Catheters & Tubing; Ultrasound Consumables; Cryopreservation; Diagnostic Tests,Marie Lefèvre,3
+C-024,Roma Reproduzione,Rome,Italy,University,239,1634,0,,396000,3,IVF Media & Reagents; Diagnostic Tests; Cryopreservation,Anna Nowak,12
+C-025,Firenze Fertility,Florence,Italy,Regional,471,866,391,190,247000,4,ZyMōt Sperm Separation; Embryo Culture; Cryopreservation; Ultrasound Consumables,James Carter,5
+C-026,Napoli Repro Centre,Naples,Italy,Chain,661,2596,2164,230,814000,6,ZyMōt Sperm Separation; Diagnostic Tests; Micromanipulation; Catheters & Tubing; IVF Media & Reagents; Embryo Culture,James Carter,8
+C-027,Amsterdam Reproductive,Amsterdam,Netherlands,Chain,2430,4522,0,,1842000,6,Diagnostic Tests; Cryopreservation; Ultrasound Consumables; IVF Media & Reagents; Micromanipulation; Catheters & Tubing,Pieter van Dijk,5
+C-028,Rotterdam IVF,Rotterdam,Netherlands,Regional,751,707,0,,234000,2,Catheters & Tubing; Diagnostic Tests,Laura Mendes,7
+C-029,Utrecht Fertility,Utrecht,Netherlands,University,456,1280,0,,225000,3,Cryopreservation; Catheters & Tubing; IVF Media & Reagents,Marie Lefèvre,2
+C-030,Brussels Fertility,Brussels,Belgium,Boutique,129,181,0,,66000,3,Catheters & Tubing; IVF Media & Reagents; Micromanipulation,Hans Becker,10
+C-031,Antwerp Reproductive,Antwerp,Belgium,Regional,354,676,0,,124000,3,Cryopreservation; Catheters & Tubing; IVF Media & Reagents,Pieter van Dijk,11
+C-032,NordicRepro Copenhagen,Copenhagen,Denmark,Chain,1739,4337,1556,260,1345000,6,Cryopreservation; Embryo Culture; IVF Media & Reagents; ZyMōt Sperm Separation; Ultrasound Consumables; Micromanipulation,Marie Lefèvre,10
+C-033,Stockholm Fertility,Stockholm,Sweden,Chain,2034,3454,3510,180,1788000,6,ZyMōt Sperm Separation; Ultrasound Consumables; Catheters & Tubing; Cryopreservation; IVF Media & Reagents; Diagnostic Tests,Pieter van Dijk,4
+C-034,Oslo IVF Centre,Oslo,Norway,Regional,411,327,161,250,229000,5,ZyMōt Sperm Separation; Diagnostic Tests; Embryo Culture; Catheters & Tubing; Cryopreservation,Anna Nowak,9
+C-035,Zürich Reproductive,Zürich,Switzerland,Regional,460,1075,867,310,196000,3,Cryopreservation; ZyMōt Sperm Separation; Micromanipulation,Pieter van Dijk,9
+C-036,Genève Fertilité,Geneva,Switzerland,Regional,115,481,318,280,115000,4,ZyMōt Sperm Separation; Catheters & Tubing; Ultrasound Consumables; Cryopreservation,Anna Nowak,4
+C-037,Wien Kinderwunsch,Vienna,Austria,Chain,941,4679,0,,1652000,7,Diagnostic Tests; Catheters & Tubing; Ultrasound Consumables; Embryo Culture; IVF Media & Reagents; Micromanipulation; Cryopreservation,James Carter,12
+C-038,Lisboa Reproductiva,Lisbon,Portugal,Regional,143,733,0,,237000,3,Catheters & Tubing; Cryopreservation; Ultrasound Consumables,Laura Mendes,5
+C-039,Warsaw Fertility,Warsaw,Poland,Boutique,119,204,0,,84000,3,IVF Media & Reagents; Diagnostic Tests; Catheters & Tubing,James Carter,11
+C-040,Praha Fertility,Prague,Czech Republic,Chain,1188,3412,0,,2185000,5,IVF Media & Reagents; Embryo Culture; Cryopreservation; Catheters & Tubing; Diagnostic Tests,Marie Lefèvre,3
